@@ -1,12 +1,16 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 
+./gradle
 .idea/*.xml
 .idea/copyright
 .idea/libraries
 .idea/shelf
+.idea/.name
 target
 out
+build
+lib
 
 *.iml
 *.ipr
