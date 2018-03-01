@@ -12,6 +12,7 @@ out
 build
 lib
 report
+checkme.bat
 
 *.iml
 *.ipr
